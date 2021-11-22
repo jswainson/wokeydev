@@ -6,12 +6,6 @@
 <a href="https://join.skype.com/invite/whitedeveloper0313">
   <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/bblokhin">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;&nbsp;
-<a href="mailto:whitedeveloper0203@gmail.com">
-  <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;&nbsp;
 </p>
 
 ### **_Skills_**
@@ -39,8 +33,7 @@
 - 💬 Ask me about web and blockchain developmentCancel changes
 - 📫 How to reach me:
   1) Email: whitedeveloper0203@gmail.com
-  2) Telegram: @blokhinbb
-  3) Skype: live:whitedeveloper0313
+  2) Skype: live:whitedeveloper0313
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 
